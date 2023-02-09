@@ -1,0 +1,15 @@
+com.mallowigi.idea
+com.intellij.ideolog
+com.crunch42.openapi
+String Manipulation
+Key Promoter X
+com.wakatime.intellij.plugin
+GrepConsole
+izhangzhihao.rainbow.brackets
+com.niclas-van-eyk.laravel-make-integration
+ru.adelf.idea.dotenv
+nl.deschepers.laraveltinker
+net.king2500.plugins.PhpAdvancedAutoComplete
+de.espend.idea.php.annotation
+de.espend.idea.laravel
+com.mallowigi

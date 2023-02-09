@@ -1,0 +1,5 @@
+<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="Console.Execute.Multiline">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+</keymap>

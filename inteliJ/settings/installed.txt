@@ -1,0 +1,28 @@
+some.awesome
+com.mallowigi.idea
+com.intellij.apacheConfig
+org.nik.presentation-assistant
+quokka.js
+com.intellij.ideolog
+com.crunch42.openapi
+dev.meanmail.plugin.nginx-intellij-plugin
+CMD Support
+Key Promoter X
+com.intellij.plugins.vscodekeymap
+com.wakatime.intellij.plugin
+jebe.liao.JBLSpringBootApp
+HighlightBracketPair
+net.ashald.envfile
+org.liujing.generator
+com.intellij.spring.websocket
+SpringBootGen
+String Manipulation
+org.jetbrains.plugins.hocon
+dev.flikas.idea.spring.boot.assistant.plugin
+GrepConsole
+com.ifengxue.plugin.jpa-support
+izhangzhihao.rainbow.brackets
+com.haulmont.jpab
+ru.adelf.idea.dotenv
+com.chrisrm.idea.MaterialThemeUI
+com.mallowigi

@@ -1,0 +1,5 @@
+com.mallowigi.idea
+com.intellij.plugins.vscodekeymap
+com.wakatime.intellij.plugin
+net.seesharpsoft.intellij.plugins.csv
+com.mallowigi

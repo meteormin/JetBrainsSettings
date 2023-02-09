@@ -1,0 +1,19 @@
+some.awesome
+com.mallowigi.idea
+org.nik.presentation-assistant
+quokka.js
+com.intellij.ideolog
+com.crunch42.openapi
+String Manipulation
+org.jetbrains.plugins.hocon
+dev.meanmail.plugin.nginx-intellij-plugin
+CMD Support
+Key Promoter X
+com.wakatime.intellij.plugin
+GrepConsole
+ru.adelf.idea.dotenv
+jebe.liao.JBLSpringBootApp
+HighlightBracketPair
+com.chrisrm.idea.MaterialThemeUI
+com.mallowigi
+izhangzhihao.rainbow.brackets

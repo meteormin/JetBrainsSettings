@@ -1,0 +1,7 @@
+<keymap version="1" name="VSCode (macOS) copy 1" parent="VSCode OSX">
+  <action id="Console.Jdbc.Execute">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="EditorStartNewLine" />
+  <action id="SplitChooser.Duplicate" />
+</keymap>

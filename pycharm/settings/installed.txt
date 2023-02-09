@@ -1,0 +1,17 @@
+dev.meanmail.plugin.nginx-intellij-plugin
+com.wakatime.intellij.plugin
+com.intellij.plugins.vscodekeymap
+com.mallowigi.idea
+quokka.js
+HighlightBracketPair
+jebe.liao.JBLSpringBootApp
+org.jetbrains.plugins.hocon
+com.intellij.ideolog
+com.mallowigi
+com.crunch42.openapi
+CMD Support
+com.leinardi.pycharm.pylint
+ru.adelf.idea.dotenv
+net.ashald.envfile
+ru.meanmail.plugin.requirements
+com.chrisrm.idea.MaterialThemeUI
